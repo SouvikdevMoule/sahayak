@@ -1,0 +1,3 @@
+{"updated":"2026-Q4","wastage":0.05,
+"norms":[{"key":"cement","item":"Cement","unit":"bag (50 kg)","perSqft":0.4},{"key":"steel","item":"Reinforcement steel","unit":"kg","perSqft":4},{"key":"sand","item":"Sand","unit":"cft","perSqft":1.8},{"key":"aggregate","item":"Aggregate","unit":"cft","perSqft":1.35},{"key":"bricks","item":"Bricks / blocks","unit":"nos","perSqft":8}],
+"cities":{"Kolkata":{"cement":390,"steel":68,"sand":55,"aggregate":60,"bricks":9},"Bhubaneswar":{"cement":380,"steel":67,"sand":50,"aggregate":55,"bricks":8},"Hyderabad":{"cement":400,"steel":69,"sand":48,"aggregate":58,"bricks":8},"Delhi":{"cement":410,"steel":70,"sand":60,"aggregate":62,"bricks":10}}}
